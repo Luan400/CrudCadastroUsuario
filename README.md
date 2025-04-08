@@ -11,16 +11,16 @@ Fiquem à vontade para utilizar o Crud em seus projetos.
 - ASP.NET Identity
 - Bootstrap 5
 - SQL lite
-
 ---
-##Funções
+
+## Funções
 -Cadastro, edição, exclusão e listagem de usuários
 -Autenticação com ASP.NET Identity
 -Login e register
 -Paginação e busca
 -Listagem de usuários
 
-##Demonstração
+## Demonstração
 <p align='center'> <img src= '/donwload.gif'</p></p>
 
 ## 💻 Como rodar o projeto
