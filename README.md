@@ -14,11 +14,11 @@ Fiquem à vontade para utilizar o Crud em seus projetos.
 ---
 
 ## Funções
--Cadastro, edição, exclusão e listagem de usuários
--Autenticação com ASP.NET Identity
--Login e register
--Paginação e busca
--Listagem de usuários
+- Cadastro, edição, exclusão e listagem de usuários
+- Autenticação com ASP.NET Identity
+- Login e register
+- Paginação e busca
+- Listagem de usuários
 
 ## Demonstração
 <p align='center'> <img src= '/donwload.gif'</p></p>
