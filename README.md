@@ -21,7 +21,7 @@ Fiquem à vontade para utilizar o Crud em seus projetos.
 - Listagem de usuários
 
 ## Demonstração
-<p align='center'> <img src= '/donwload.gif'</p></p>
+<p align='center'> <img src= '/download.gif'</p></p>
 
 ## 💻 Como rodar o projeto
 
